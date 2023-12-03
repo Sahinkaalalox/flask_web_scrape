@@ -25,8 +25,8 @@ Dockerized the Flask application for easy deployment.
 Ensured compatibility with Docker and ran the application successfully.
 
 Installation
-Clone the repository : git clone https://github.com/your-username/your-repo.git
-Navigate to the project directory : cd your-repo
+Clone the repository : git clone https://github.com/Sahinkaalalox/flask_web_scrape.git
+Navigate to the project directory : cd flask_web_scrape
 Create a virtual environment : python -m venv venv
 Activate the virtual environment:
 
